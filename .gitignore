@@ -1,0 +1,23 @@
+# Ignore local data downloads and caches
+plantvillage_data/
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+
+# Python cache and compiled artifacts
+__pycache__/
+*.py[cod]
+*.so
+
+# Notebook checkpoints and metadata
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Editor folders
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
